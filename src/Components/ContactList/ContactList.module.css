@@ -1,0 +1,30 @@
+.list {
+  width: 400px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  padding: 5px 15px;
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  padding: 5px 15px;
+  border: 1px solid magenta;
+  border-radius: 10px;
+  width: 300px;
+}
+.paragraph {
+  margin-right: 10px;
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button {
+  background-color: mediumpurple;
+  border: 1px solid rgba(151, 187, 228, 0.564);
+  border-radius: 3px;
+  font-size: 25px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  margin-left: 20px;
+}

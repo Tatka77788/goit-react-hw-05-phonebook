@@ -1,0 +1,22 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.label {
+  text-align: left;
+  padding: 10px;
+  width: 300px;
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input {
+  width: 200px;
+  margin: 10px auto;
+  display: block;
+  border-radius: 6px;
+  border: 1px solid magenta;
+  font-size: 16px;
+  padding: 6px;
+}
